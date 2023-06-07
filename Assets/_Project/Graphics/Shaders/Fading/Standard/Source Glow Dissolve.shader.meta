@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: d6948011dccc2f54c919975998aa57b9
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _SourceGlowDissolveNoiseTexture: {fileID: 2800000, guid: cd21d0de17dcd734691f79979be13330,
+      type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
